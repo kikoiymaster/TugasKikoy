@@ -1,1 +1,1 @@
-print("rifki handy saputra")
+print("rifki handy")
